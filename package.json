@@ -1,0 +1,22 @@
+{
+  "name": "wercker-node",
+  "version": "1.0.0",
+  "description": "A test node project for building / deploying through wercker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gravy-gaming/wercker-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gravy-gaming/wercker-node/issues"
+  },
+  "homepage": "https://github.com/gravy-gaming/wercker-node#readme",
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
+}
